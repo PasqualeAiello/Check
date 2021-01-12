@@ -1,4 +1,4 @@
-# Bah
+# AI&P
 
 Final project for the Building AI course
 
